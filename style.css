@@ -137,6 +137,10 @@ html{scroll-behavior:smooth}
 .single-post .post-autor-details .img-part {
     min-width: 140px;
 }
+.wp-block-group.home-post-block{
+    padding-top: 40px!important;
+    padding-bottom: 40px!important;
+}
 /*Short Code*/
 .popup-btn-wrapper{display:-webkit-flex;display:-moz-flex;display:-ms-flex;display:-o-flex;display:flex;align-items:center;justify-content:center;background-size: cover;background-repeat: no-repeat;background-position: center center}
 .embed-responsive{position:relative;display:block;width:100%;padding:0;overflow:hidden} 
